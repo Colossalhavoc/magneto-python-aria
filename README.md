@@ -1,12 +1,12 @@
 # Important - Read these points first
 - Original repo is https://github.com/lzzy12/python-aria-mirror-bot
 - I have collected some cool features from various repositories and merged them in one.
-- So, credits goes to original repo holder, not to me. I have just collected them.
+- So, credits goes to original repo holder, ~not to me. I have just collected them.~ I too have done much work on this repo and added many features on my own.
 - This (or any custom) repo is not supported in official bot support group.
 - So if you have any issue then check first that issue is in official repo or not, You are only allowed to report that issue in bot support group if that issue is also present in official repo.
 
 ## Features Coming soon....
-- Custom Filename
+- ~Custom Filename~ Added 
 ```
 Only for url, telegram files and ytdl.
 Not for mega links and magnet/torrents
@@ -46,6 +46,7 @@ This project is heavily inspired from @out386 's telegram bot which is written i
 - Mirroring Mega.nz links to google drive (In development stage)
 - Mirror Telegram files to google drive
 - Mirror all youtube-dl supported links
+- Custom filename support in direct link, telegram files, YT-DL links
 - Extract these filetypes and uploads to google drive
 > ZIP, RAR, TAR, 7z, ISO, WIM, CAB, GZIP, BZIP2, 
 > APM, ARJ, CHM, CPIO, CramFS, DEB, DMG, FAT, 
@@ -60,6 +61,9 @@ This project is heavily inspired from @out386 's telegram bot which is written i
 - Uploading To Team Drives.
 - Index Link support
 - Shortener support
+
+- For using custom filename see these examples :-
+> https://telegra.ph/Magneto-Python-Aria---Custom-Filename-Examples-01-20
 
 ## Bot commands to be set in botfather
 
